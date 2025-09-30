@@ -3,6 +3,8 @@ import { MessageSquare } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 const PRESET_QUESTIONS = [
+  'Сделать обзор крипторынка?',
+  'Сделать обзор фондового рынка?',
   'Чему учиться в эпоху ИИ?',
   'Чему учить детей?',
   'Какие профессии выживут?',
